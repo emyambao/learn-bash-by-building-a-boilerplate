@@ -18,4 +18,4 @@ tasks:
 
 vscode:
   extensions:
-    - CodeRoad.coderoad
+    - coderoad.coderoad
